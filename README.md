@@ -1,4 +1,4 @@
-# 🧩 Discord Pokédex Bot
+# Discord Pokédex Bot
 
 A simple Discord bot built with Python that allows users to search for Pokémon information using commands.
 
