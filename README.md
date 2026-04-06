@@ -32,5 +32,3 @@ python bot.py
 ## Notes
 
 - The Discord token is not included for security reasons  
-- This project was made for learning and portfolio purposes  
-
